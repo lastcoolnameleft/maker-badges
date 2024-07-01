@@ -12,7 +12,7 @@ Feel free to use and 3d print and/or vinyl cut your own.
 | 3D Printing | ![](img/badge_3Dprinting.svg) | olisny](https://www.olisny.com/) |
 | Circular Saw | ![](img/badge_circularsaw.svg) | olisny](https://www.olisny.com/) |
 | Coding | ![](img/badge_coding.svg) | olisny](https://www.olisny.com/) |
-| Drone | ![](img/badgedrone.svg) | olisny](https://www.olisny.com/) |
+| Drone | ![](img/badge_drone.svg) | olisny](https://www.olisny.com/) |
 | Gears | ![](img/badge_gears.svg) | olisny](https://www.olisny.com/) |
 | Glider | ![](img/badge_glider.svg) | olisny](https://www.olisny.com/) |
 | Glue Gun | ![](img/badge_gluegun.svg) | olisny](https://www.olisny.com/) |
