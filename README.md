@@ -23,4 +23,4 @@ Feel free to use and 3d print and/or vinyl cut your own.
 | Paintbrushes | ![](img/badge_paintbrushes.svg) | [olisny](https://www.olisny.com/) |
 | Pottery | ![](img/badge_pottery.svg) | [olisny](https://www.olisny.com/) |
 | Sewing | ![](img/badge_sewing.svg) | [olisny](https://www.olisny.com/) |
-| Good Job | ![](img/good_job.png) | [olisny](https://www.olisny.com/) |
+| Good Job | ![](img/good_job.png){: width="200" } | [olisny](https://www.olisny.com/) |
