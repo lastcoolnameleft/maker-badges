@@ -13,6 +13,7 @@ Feel free to use and 3d print and/or vinyl cut your own.
 | Circular Saw | ![](img/badge_circularsaw.svg) | [olisny](https://www.olisny.com/) |
 | Coding | ![](img/badge_coding.svg) | [olisny](https://www.olisny.com/) |
 | Drone | ![](img/badge_drone.svg) | [olisny](https://www.olisny.com/) |
+| Dumpster Dive | ![](img/badge_dumpsterdive.svg) | [olisny](https://www.olisny.com/) |
 | Gears | ![](img/badge_gears.svg) | [olisny](https://www.olisny.com/) |
 | Glider | ![](img/badge_glider.svg) | [olisny](https://www.olisny.com/) |
 | Glue Gun | ![](img/badge_gluegun.svg) | [olisny](https://www.olisny.com/) |
@@ -22,5 +23,7 @@ Feel free to use and 3d print and/or vinyl cut your own.
 | LED Symbol | ![](img/badge_ledsymbol.svg) | [olisny](https://www.olisny.com/) |
 | Paintbrushes | ![](img/badge_paintbrushes.svg) | [olisny](https://www.olisny.com/) |
 | Pottery | ![](img/badge_pottery.svg) | [olisny](https://www.olisny.com/) |
+| Raspberry Pi | ![](img/badge_raspi.svg) | [olisny](https://www.olisny.com/) |
 | Sewing | ![](img/badge_sewing.svg) | [olisny](https://www.olisny.com/) |
+| Soldering | ![](img/badge_soldering.svg) | [olisny](https://www.olisny.com/) |
 | Good Job | ![](img/good_job.png){: width="200" } | [olisny](https://www.olisny.com/) |
