@@ -1,5 +1,7 @@
 # Maker Badges Repository
 
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
 This site is designed to be a repository for various "maker badges", similar to Scouting America's [Merit badges](https://www.scouting.org/skills/merit-badges/).
 
 Feel free to use and 3d print and/or vinyl cut your own.
